@@ -2,3 +2,4 @@ pandas
 pymongo
 xlrd
 xlsxwriter
+beautifulsoup4
